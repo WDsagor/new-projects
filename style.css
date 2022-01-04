@@ -1,0 +1,22 @@
+body {
+  margin: 0%;
+}
+.part-one {
+  background-image: url(images/dot.png);
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.half-width {
+  width: 40%;
+  padding-left: 5%;
+}
+.part-one {
+  display: flex;
+}
+.half-width img {
+  width: 80%;
+}
+.purple {
+  color: orangered;
+  font-size: 50px;
+}
